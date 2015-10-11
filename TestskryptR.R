@@ -22,5 +22,10 @@ library('sos')
 #  i dalej jedyiemz
 
 
+# git show <SHA> <filename>
+# git checkout -b <SHA> <filename>
+
+
+
 git remote add TestGitProject git@github.com:lobin/TestGitProject
 git push -u TestGitProject master
