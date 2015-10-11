@@ -17,6 +17,4 @@ library('sos')
 
 # o co chodzi z tymi liniami
 
-# dupa wolowa
-
 #amend
