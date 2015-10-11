@@ -19,4 +19,5 @@ print('ala')
 3
 
 jakis tekst
+a
 
