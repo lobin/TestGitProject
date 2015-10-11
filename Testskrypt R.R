@@ -18,3 +18,5 @@ library('sos')
 # o co chodzi z tymi liniami
 
 #amend
+
+#  i dalej jedyiemz
