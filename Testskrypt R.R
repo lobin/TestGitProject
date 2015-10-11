@@ -14,3 +14,5 @@ library('sos')
 # sos
 
 #ok no to co teraz sie stanie
+
+# o co chodzi
