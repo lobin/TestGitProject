@@ -29,7 +29,7 @@ library('sos')
 # git push -u TestGitProject master
 
 # teraz online
-
+sa
 
 
 # jaks sekcja -------------------------------------------------------------
