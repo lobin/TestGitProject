@@ -5,3 +5,6 @@
 install.packages('sos')
 library('sos')
 ???'generalized ordinal regression'
+
+
+# tutaj jakis bug
