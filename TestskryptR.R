@@ -28,6 +28,8 @@ library('sos')
 # git remote add TestGitProject git@github.com:lobin/TestGitProject
 # git push -u TestGitProject master
 
+# git config --global merge.conflictstyle diff3
+
 # teraz online
 sa
 
