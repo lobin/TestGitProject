@@ -7,8 +7,10 @@ library('sos')
 ???'generalized ordinal regression'
 
 
-# tutaj jakis bug
+# tutaj jakis kod
 
 # cos jeszce
 
 # sos
+
+#ok no to co teraz sie stanie
