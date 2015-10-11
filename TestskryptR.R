@@ -29,3 +29,10 @@ library('sos')
 # git push -u TestGitProject master
 
 # teraz online
+
+
+
+# jaks sekcja -------------------------------------------------------------
+
+
+# sdewa
