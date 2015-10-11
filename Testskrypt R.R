@@ -11,7 +11,7 @@ library('sos')
 
 # cos jeszce
 
-# sos
+# sos OKADOKA
 
 #ok no to co teraz sie stanie
 
