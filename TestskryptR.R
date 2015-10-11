@@ -20,3 +20,7 @@ library('sos')
 #amend
 
 #  i dalej jedyiemz
+
+
+git remote add TestGitProject git@github.com:lobin/TestGitProject
+git push -u TestGitProject master
