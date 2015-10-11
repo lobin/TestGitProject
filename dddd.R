@@ -14,10 +14,7 @@
 print('ala')
 
 
-2
-
 3
 
 jakis tekst
-a
 
