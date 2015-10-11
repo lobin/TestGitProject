@@ -16,3 +16,7 @@ library('sos')
 #ok no to co teraz sie stanie
 
 # o co chodzi z tymi liniami
+
+# dupa wolowa
+
+#amend
