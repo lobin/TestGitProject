@@ -2,3 +2,6 @@
 
 # sekcja ------------------------------------------------------------------
 
+install.packages('sos')
+library('sos')
+???'generalized ordinal regression'
