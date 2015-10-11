@@ -8,3 +8,5 @@ library('sos')
 
 
 # tutaj jakis bug
+
+# cos jeszce
