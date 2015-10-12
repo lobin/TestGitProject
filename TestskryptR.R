@@ -22,11 +22,23 @@ library('sos')
 #  i dalej jedyiemz
 
 
-# git show <SHA> <filename>
-# git checkout -b <SHA> <filename>
+
 
 # git remote add TestGitProject git@github.com:lobin/TestGitProject
 # git push -u TestGitProject master
+
+
+# git show <SHA> <filename>
+# git checkout <SHA> <filename>
+
+# branczowanie
+# git checkout -b <branch-name>
+# git push --set-upstream origin <branch-name>
+# git merge master
+
+# git checkout master
+# git merge <branch-name>
+# git branch -d <branch-name>
 
 # git config --global merge.conflictstyle diff3
 
